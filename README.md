@@ -1,2 +1,2 @@
-# awesom-nillion
+# awesome-nillion
 Curated list of examples, tools, contracts, and projects built with Nillion
