@@ -55,9 +55,9 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - TO ADD
 
 ## Links
-- Github https://github.com/NillionNetwork
-- Github Discussions https://github.com/orgs/NillionNetwork/discussions
-- Documentation https://docs.nillion.com/
-- Discord https://discord.gg/nillionnetwork
-- X (Formerly Twitter) https://twitter.com/nillionnetwork
-- Youtube https://www.youtube.com/@nillion
+- [Github](https://github.com/NillionNetwork)
+- [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
+- [Documentation](https://docs.nillion.com/)
+- [Discord](https://discord.gg/nillionnetwork)
+- [X (Formerly Twitter)](https://twitter.com/nillionnetwork)
+- [Youtube](https://www.youtube.com/@nillion)
