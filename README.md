@@ -14,7 +14,7 @@
 
 Curated list of examples, tools, contracts, and projects built with Nillion
 
->  **If you are submitting for Hacktoberfest 2024 - check this link [LINK]**: 
+>  ⚠️⚠️⚠️ **If you are submitting for Hacktoberfest 2024 - check this link [LINK]**: 
 
 ## Table of Contents
 1. [What is Nillion](#what-is-nillion)
