@@ -1,15 +1,15 @@
 <div align="center">
+  <a href="https://www.nillion.com">
+    <picture>
+    <img alt="nillion logo" src="https://github.com/NillionNetwork/.github/blob/main/assets/nillion.png" width="auto" height="100">
+    </picture>
+  </a>
   <h1 align="center">Awesome Nillion</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
   </p>
-  <a href="https://www.nillion.com">
-    <picture>
-    <img alt="nillion logo" src="https://github.com/NillionNetwork/.github/blob/main/assets/nillion.png" width="auto" height="100">
-    </picture>
-  </a>
 </div>
 
 Curated list of examples, tools, contracts, and projects built with Nillion
