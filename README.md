@@ -54,7 +54,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
-- TO ADD
+- [Crypblizz] Secret Addition App
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
