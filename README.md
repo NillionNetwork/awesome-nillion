@@ -55,6 +55,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 
 ## Examples (Community)
 - TO ADD
+- [dekkeng Secret Addition App](https://github.com/dekkeng/secret_addition)
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
