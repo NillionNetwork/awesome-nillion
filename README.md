@@ -55,6 +55,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 
 ## Examples (Community)
 - TO ADD
+- [ArslanHaaider Secret Addition App](https://github.com/ArslanHaaider/bllind-assistant)
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
