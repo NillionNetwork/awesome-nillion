@@ -54,7 +54,16 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
-- TO ADD
+- 
+
+## My Contribution
+
+**Name**: Abdulquadri  
+**Project**: My Hacktoberfest Nillion Contribution  
+**Description**: This project implements secure addition using Nillion's Nada protocol to showcase secret computation as part of Hacktoberfest.
+**GitHub Repository**: [Nillion Hacktoberfest Contribution](https://github.com/meekMusa2/nillion-hacktoberfest)
+
+
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
