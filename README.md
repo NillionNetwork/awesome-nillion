@@ -60,6 +60,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
+- [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
