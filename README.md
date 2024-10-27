@@ -54,15 +54,14 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
-
+- [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
+- [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
 - [grigor-aramyan](https://github.com/grigor-aramyan/hacktoberfest-blind)
 - [0xmoei](https://github.com/0xmoei/secret_addition)
 - [IkutoJP](https://github.com/IkutoJP/secret_addition)
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
-- [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
-
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
