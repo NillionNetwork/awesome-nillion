@@ -54,6 +54,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
+- [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 Secret Addition
 - [Denymosh](https://github.com/denymosh/secret_addition)
 - [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
