@@ -54,6 +54,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
+- [ysongh](https://github.com/ysongh/Wordle-BlindApp)
 - [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
 - [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
 - [grigor-aramyan](https://github.com/grigor-aramyan/hacktoberfest-blind)
