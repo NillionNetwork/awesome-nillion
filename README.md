@@ -54,8 +54,8 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
+Secret Addition
 - [Denymosh](https://github.com/denymosh/secret_addition)
-- [ysongh](https://github.com/ysongh/Wordle-BlindApp)
 - [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
 - [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
 - [grigor-aramyan](https://github.com/grigor-aramyan/hacktoberfest-blind)
@@ -64,6 +64,9 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
+
+Wordle App
+- [ysongh](https://github.com/ysongh/Wordle-BlindApp)
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
