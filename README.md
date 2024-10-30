@@ -55,6 +55,8 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 
 ## Examples (Community)
 Secret Addition
+- [Hillary](https://github.com/hilary3211/Nillion-Blind-app)
+- [Atunde-SS](https://github.com/Atunde-SS/secrete_addition)
 - [Denymosh](https://github.com/denymosh/secret_addition)
 - [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
 - [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
@@ -64,7 +66,8 @@ Secret Addition
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
-- [Hillary](https://github.com/hilary3211/Nillion-Blind-app)
+- [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
+- [asifbd11](https://github.com/asifbd11/secret_addition)
 
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
