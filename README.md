@@ -55,6 +55,7 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 
 ## Examples (Community)
 Secret Addition
+- [Atunde-SS](https://github.com/Atunde-SS/secrete_addition)
 - [Denymosh](https://github.com/denymosh/secret_addition)
 - [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
 - [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
