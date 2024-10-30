@@ -64,6 +64,7 @@ Secret Addition
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
+- [Rifat158](https://github.com/Rifat158/secret_additon)
 
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
