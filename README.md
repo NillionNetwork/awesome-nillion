@@ -79,6 +79,9 @@ Morragame
 Blind Date App
 - [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
+The Vickrey Auction Secure Bid App
+- [daningyn](https://github.com/daningyn/tinybid-nillion-blind-app)
+
 ## Links
 - [Github](https://github.com/NillionNetwork)
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
