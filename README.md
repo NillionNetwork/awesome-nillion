@@ -69,7 +69,7 @@ Secret Addition
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
-
+- [sanii](https://github.com/Oyedele23/appp_blind)
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
 
@@ -84,5 +84,7 @@ Blind Date App
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
 - [Documentation](https://docs.nillion.com/)
 - [Discord](https://discord.gg/nillionnetwork)
+-  nnn
 - [X (Formerly Twitter)](https://twitter.com/nillionnetwork)
 - [Youtube](https://www.youtube.com/@nillion)
+- my contribution
