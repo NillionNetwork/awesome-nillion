@@ -69,6 +69,7 @@ Secret Addition
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
+- [mx](https://github.com/mxber2022/magic)
 
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
