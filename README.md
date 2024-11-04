@@ -14,7 +14,7 @@
 
 Curated list of examples, tools, contracts, and projects built with Nillion
 
->  ⚠️⚠️⚠️ **If you are submitting for Hacktoberfest 2024 - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
+>  ⚠️⚠️⚠️ **If you are submitting for Near Redacted Hackathon - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
 
 ## Table of Contents
 1. [What is Nillion](#what-is-nillion)
@@ -54,7 +54,30 @@ Curated list of examples, tools, contracts, and projects built with Nillion
 - [Nada Numpy](https://docs.nillion.com/nada-by-example/nada-numpy)
 
 ## Examples (Community)
-- TO ADD
+Secret Addition
+- [Hillary](https://github.com/hilary3211/Nillion-Blind-app)
+- [Atunde-SS](https://github.com/Atunde-SS/secrete_addition)
+- [Denymosh](https://github.com/denymosh/secret_addition)
+- [meekmusa2](https://github.com/meekMusa2/nillion-hacktoberfest)
+- [ScapeXYZ](https://github.com/ScapeXYZ/nillibilli/tree/master)
+- [grigor-aramyan](https://github.com/grigor-aramyan/hacktoberfest-blind)
+- [0xmoei](https://github.com/0xmoei/secret_addition)
+- [IkutoJP](https://github.com/IkutoJP/secret_addition)
+- [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
+- [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
+- [dekkeng](https://github.com/dekkeng/secret_addition)
+- [Rifat158](https://github.com/Rifat158/secret_additon)
+- [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
+- [asifbd11](https://github.com/asifbd11/secret_addition)
+
+Wordle App
+- [ysongh](https://github.com/ysongh/Wordle-BlindApp)
+
+Morragame 
+- [Hillary](https://github.com/hilary3211/Morragame_Nillion_App.git)
+
+Blind Date App
+- [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
 ## Links
 - [Github](https://github.com/NillionNetwork)
