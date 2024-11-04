@@ -79,6 +79,9 @@ Morragame
 Blind Date App
 - [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
+Private Medical Research App
+- [kamalbuilds](https://github.com/kamalbuilds/nillion-pvt-medical-research-app)
+
 ## Links
 - [Github](https://github.com/NillionNetwork)
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
