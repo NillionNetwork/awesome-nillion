@@ -105,7 +105,5 @@ Coin trend prediction Blind App
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
 - [Documentation](https://docs.nillion.com/)
 - [Discord](https://discord.gg/nillionnetwork)
--  nnn
 - [X (Formerly Twitter)](https://twitter.com/nillionnetwork)
 - [Youtube](https://www.youtube.com/@nillion)
-- my contribution
