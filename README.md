@@ -66,6 +66,7 @@ Secret Addition
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
+- [docpto](https://github.com/docpto/secret_addition)
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
