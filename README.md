@@ -14,7 +14,7 @@
 
 Curated list of examples, tools, contracts, and projects built with Nillion
 
->  ⚠️⚠️⚠️ **If you are submitting for Hacktoberfest 2024 - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
+>  ⚠️⚠️⚠️ **If you are submitting for Near Redacted Hackathon - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
 
 ## Table of Contents
 1. [What is Nillion](#what-is-nillion)
@@ -70,6 +70,9 @@ Secret Addition
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
 - [divana0022](https://github.com/divana0022/secret_addition)
+- [niyana021](https://github.com/niyana021/secret_addition)
+- [Ore](https://github.com/Ore0luwa/nillion-blind)
+- [MekongLabs](https://github.com/Mekong-labs/secret_addition)
 
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
