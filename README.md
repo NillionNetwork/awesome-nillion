@@ -88,6 +88,9 @@ Morragame
 Blind Date App
 - [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
+The Vickrey Auction Secure Bid App
+- [daningyn](https://github.com/daningyn/tinybid-nillion-blind-app)
+
 Weather Temperater Guess Blind App
 - [thu142857](https://github.com/thu142857/tinybin-nillion-blind-app)
 
