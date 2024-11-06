@@ -14,7 +14,7 @@
 
 Curated list of examples, tools, contracts, and projects built with Nillion
 
->  ⚠️⚠️⚠️ **If you are submitting for Hacktoberfest 2024 - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
+>  ⚠️⚠️⚠️ **If you are submitting for Near Redacted Hackathon - check this [LINK](https://github.com/NillionNetwork/awesome-nillion/issues/2)**: 
 
 ## Table of Contents
 1. [What is Nillion](#what-is-nillion)
@@ -66,10 +66,20 @@ Secret Addition
 - [HadesGuard](https://github.com/HadesGuard/secret-addition-app)
 - [ArslanHaaider](https://github.com/ArslanHaaider/bllind-assistant)
 - [dekkeng](https://github.com/dekkeng/secret_addition)
+- [docpto](https://github.com/docpto/secret_addition)
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
 - [lalonbai](https://github.com/lalonbai/secret_addition)
+- [kobirmiadev](https://github.com/kobirmiadev/secret_addition)
+- [Arifb121](https://github.com/Arifb121/secret_addition)
+- [sanii](https://github.com/Oyedele23/appp_blind)
+- [sufi121212](https://github.com/sufi121212/secret_addition)
+- [Paglrommo](https://github.com/Paglrommo/secret_addition)
+- [divana0022](https://github.com/divana0022/secret_addition)
+- [niyana021](https://github.com/niyana021/secret_addition)
+- [Ore](https://github.com/Ore0luwa/nillion-blind)
+- [MekongLabs](https://github.com/Mekong-labs/secret_addition)
 
 Wordle App
 - [ysongh](https://github.com/ysongh/Wordle-BlindApp)
@@ -80,10 +90,21 @@ Morragame
 Blind Date App
 - [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
+The Vickrey Auction Secure Bid App
+- [daningyn](https://github.com/daningyn/tinybid-nillion-blind-app)
+
+Weather Temperater Guess Blind App
+- [thu142857](https://github.com/thu142857/tinybin-nillion-blind-app)
+
+Coin trend prediction Blind App
+- [thu142857](https://github.com/thu142857/nillion-timeseries-blindapp)
+
 ## Links
 - [Github](https://github.com/NillionNetwork)
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
 - [Documentation](https://docs.nillion.com/)
 - [Discord](https://discord.gg/nillionnetwork)
+-  nnn
 - [X (Formerly Twitter)](https://twitter.com/nillionnetwork)
 - [Youtube](https://www.youtube.com/@nillion)
+- my contribution
