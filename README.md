@@ -70,6 +70,7 @@ Secret Addition
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
+- [Arifb121](https://github.com/Arifb121/secret_addition)
 - [sanii](https://github.com/Oyedele23/appp_blind)
 - [sufi121212](https://github.com/sufi121212/secret_addition)
 - [Paglrommo](https://github.com/Paglrommo/secret_addition)
