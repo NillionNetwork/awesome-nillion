@@ -70,6 +70,7 @@ Secret Addition
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
+- [sanii](https://github.com/Oyedele23/appp_blind)
 - [sufi121212](https://github.com/sufi121212/secret_addition)
 - [Paglrommo](https://github.com/Paglrommo/secret_addition)
 - [divana0022](https://github.com/divana0022/secret_addition)
@@ -97,5 +98,7 @@ Coin trend prediction Blind App
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
 - [Documentation](https://docs.nillion.com/)
 - [Discord](https://discord.gg/nillionnetwork)
+-  nnn
 - [X (Formerly Twitter)](https://twitter.com/nillionnetwork)
 - [Youtube](https://www.youtube.com/@nillion)
+- my contribution
