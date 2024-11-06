@@ -69,6 +69,7 @@ Secret Addition
 - [Rifat158](https://github.com/Rifat158/secret_additon)
 - [youngpriince](https://github.com/youngpriince/nillion-secret-addition)
 - [asifbd11](https://github.com/asifbd11/secret_addition)
+- [divana0022](https://github.com/divana0022/secret_addition)
 - [niyana021](https://github.com/niyana021/secret_addition)
 - [Ore](https://github.com/Ore0luwa/nillion-blind)
 - [MekongLabs](https://github.com/Mekong-labs/secret_addition)
