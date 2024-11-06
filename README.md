@@ -86,6 +86,12 @@ Morragame
 Blind Date App
 - [kenymccornick](https://github.com/kenymccornick/blind-date-app)
 
+Weather Temperater Guess Blind App
+- [thu142857](https://github.com/thu142857/tinybin-nillion-blind-app)
+
+Coin trend prediction Blind App
+- [thu142857](https://github.com/thu142857/nillion-timeseries-blindapp)
+
 ## Links
 - [Github](https://github.com/NillionNetwork)
 - [Github Discussions](https://github.com/orgs/NillionNetwork/discussions)
