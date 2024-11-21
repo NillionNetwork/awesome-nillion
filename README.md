@@ -94,7 +94,7 @@ Blind Date App
 The Vickrey Auction Secure Bid App
 - [daningyn](https://github.com/daningyn/tinybid-nillion-blind-app)
 
-Weather Temperater Guess Blind App (Note: Older SDK)
+Weather Temperature Guess Blind App (Note: Older SDK)
 - [thu142857](https://github.com/thu142857/tinybin-nillion-blind-app) 
 
 Coin trend prediction Blind App (Note: Older SDK)
